@@ -12,3 +12,4 @@ Welcome to my landing page. Here in this readme file you will find a list of tod
 ### 2. GIT STATUS
 ### 3. GIT ADD .
 ### 4. GIT COMMIT -m "enter a description"
+### 5. GIT PUSH
