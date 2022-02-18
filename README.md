@@ -9,7 +9,7 @@ landing page
 ### 3. add name and title
 ### 4. add contact email address
 
-#GIT COMMANDS
+# GIT COMMANDS
 
 ### 1. GIT STATUS
 ### 2. GIT ADD .
