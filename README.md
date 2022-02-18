@@ -11,6 +11,7 @@ landing page
 
 # GIT COMMANDS
 
-### 1. GIT STATUS
-### 2. GIT ADD .
-### 3. GIT COMMIT -m "enter a description"
+### 1. GIT DIFF 
+### 2. GIT STATUS
+### 3. GIT ADD .
+### 4. GIT COMMIT -m "enter a description"
