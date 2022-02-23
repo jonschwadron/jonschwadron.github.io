@@ -20,8 +20,7 @@
 
 title: Jonathan Schwadron
 email: jonschwadron@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Full Stack Web Developer and QA Engineer
+description: Full Stack Web Developer and QA Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
@@ -29,7 +28,6 @@ github_username: jonschwadron
 
 # Build settings
 theme: minima
-theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
